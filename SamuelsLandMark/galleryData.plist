@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>SectionName</key>
+		<string>3D Illustrations</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>image</string>
+				<key>albumthumb</key>
+				<string>Building_whole_view_2.png</string>
+				<key>albumframe</key>
+				<string>gallery-thumb-multiple.png</string>
+				<key>albumcaption</key>
+				<string>3D Illstrations</string>
+				<key>images</key>
+				<array>
+					<string>Building_whole_view_2.png</string>
+					<string>Building_whole_view.png</string>
+					<string>outdoor_roof.png</string>
+				</array>
+				<key>captions</key>
+				<array>
+					<string>Building Whole View 1</string>
+					<string>Building Whole View 2</string>
+					<string>Ourdoor View</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>Films</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>film</string>
+				<key>albumthumb</key>
+				<string>thumb_film.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Film</string>
+				<key>film</key>
+				<string>RiverPoint_RoughCut_HD.mov</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>Documents</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>pdf</string>
+				<key>albumthumb</key>
+				<string></string>
+				<key>albumframe</key>
+				<string>gallery-documents.png</string>
+				<key>albumcaption</key>
+				<string>1325 Boylston Brochure</string>
+				<key>pdf</key>
+				<string>1325_Boylston_Brochure</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

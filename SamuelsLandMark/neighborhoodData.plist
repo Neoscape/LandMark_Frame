@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>SectionName</key>
+		<string>Images</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>image</string>
+				<key>albumthumb</key>
+				<string>landmark01.jpg</string>
+				<key>albumframe</key>
+				<string>gallery-thumb-multiple.png</string>
+				<key>albumcaption</key>
+				<string>Images</string>
+				<key>images</key>
+				<array>
+					<string>landmark01.jpg</string>
+					<string>landmark02.jpg</string>
+				</array>
+				<key>captions</key>
+				<array>
+					<string>Image 01</string>
+					<string>Image 02</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>Documents</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>pdf</string>
+				<key>albumthumb</key>
+				<string></string>
+				<key>albumframe</key>
+				<string>gallery-documents.png</string>
+				<key>albumcaption</key>
+				<string>Neighborhood Introduction</string>
+				<key>pdf</key>
+				<string>Landmark_neighborhood</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
